@@ -1011,11 +1011,11 @@
         {
           selector: ".contact-card h3",
           texts: {
-            zh: ["中国成都（总部）", "日本广岛（驻日办事处）", "澳大利亚悉尼"],
+            zh: ["中国", "日本", "澳大利亚"],
             en: [
-              "Chengdu, China (Head Office)",
-              "Hiroshima, Japan (Resident Office)",
-              "Sydney, Australia",
+              "China",
+              "Japan",
+              "Australia",
             ],
           },
         },
