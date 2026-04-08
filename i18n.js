@@ -269,11 +269,11 @@
           afterFirstChildTexts: {
             zh: [
               "澳大利亚MARA官网查询 — portal.mara.gov.au",
-              "新西兰IAA官网查询 — app.mbieregisters.govt.nz",
+              "新西兰IAA官网查询 — www.iaa.govt.nz",
             ],
             en: [
               "Australia MARA Register — portal.mara.gov.au",
-              "New Zealand IAA Register — app.mbieregisters.govt.nz",
+              "New Zealand IAA Register — www.iaa.govt.nz",
             ],
           },
         },
