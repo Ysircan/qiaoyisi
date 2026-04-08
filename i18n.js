@@ -368,13 +368,13 @@
           htmls: {
             zh: [
               "2006",
-              "100<span class=\"sc-unit\">%</span>",
+              "98<span class=\"sc-unit\">%</span>",
               "5<span class=\"sc-unit\">国</span>",
               "12<span class=\"sc-unit\">万+</span>",
             ],
             en: [
               "2006",
-              "100<span class=\"sc-unit\">%</span>",
+              "98<span class=\"sc-unit\">%</span>",
               "5<span class=\"sc-unit\"> Countries</span>",
               "120<span class=\"sc-unit\">K+</span>",
             ],
