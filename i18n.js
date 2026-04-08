@@ -946,11 +946,12 @@
         {
           selector: ".cert-card h3",
           texts: {
-            zh: ["营业执照", "对外劳务合作经营资格证书", "澳大利亚MARA移民代理"],
+            zh: ["营业执照", "对外劳务合作经营资格证书", "澳大利亚MARA移民代理", "新西兰持牌移民顾问"],
             en: [
               "Business License",
               "Foreign Labor Cooperation Qualification Certificate",
               "Australia MARA Migration Agent",
+              "New Zealand Licensed Immigration Adviser",
             ],
           },
         },
@@ -961,19 +962,21 @@
               "统一社会信用代码：91510106790039774<br>成立日期：2006年07月26日<br>注册资本：陆佰万元整<br>法定代表人：马睿",
               "批准文号：商合批[2009]193号<br>有效期：2024年06月12日 – 2030年06月12日<br>发证机关：四川省商务厅",
               "代理人：Dezhi Li<br>注册号：2217976<br>注册日期：2025年12月12日",
+              "顾问：Dezhi Li (Harvey)<br>牌照号：202300371<br>牌照类型：Full Licence · Current",
             ],
             en: [
               "Unified Social Credit Code: 91510106790039774<br>Date of Establishment: July 26, 2006<br>Registered Capital: RMB 6 million<br>Legal Representative: Ma Rui",
               "Approval No.: Shang He Pi [2009] No.193<br>Validity: June 12, 2024 - June 12, 2030<br>Issuing Authority: Sichuan Provincial Department of Commerce",
               "Adviser: Dezhi Li<br>Registration No.: 2217976<br>Registration Date: December 12, 2025",
+              "Adviser: Dezhi Li (Harvey)<br>Licence No.: 202300371<br>Licence Type: Full Licence · Current",
             ],
           },
         },
         {
           selector: ".cert-tag",
           texts: {
-            zh: ["有效", "有效", "Registered"],
-            en: ["Valid", "Valid", "Registered"],
+            zh: ["有效", "有效", "Registered", "Current"],
+            en: ["Valid", "Valid", "Registered", "Current"],
           },
         },
       ],
