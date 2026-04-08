@@ -190,8 +190,8 @@
         {
           selector: ".h-stat-num",
           texts: {
-            zh: ["18+", "100%", "数千"],
-            en: ["18+", "100%", "Thousands"],
+            zh: ["18+", "98%", "数千"],
+            en: ["18+", "98%", "Thousands"],
           },
         },
         {
@@ -351,13 +351,13 @@
           afterFirstChildTexts: {
             zh: [
               "国家商务部批准对外劳务合作资质，合法合规",
-              "18年日本劳务派遣经验，签证通过率100%",
+              "18年日本劳务派遣经验，签证通过率98%",
               "日本五大驻在所全程管理（九州·中四国·关西·北陆·关东）",
               "澳大利亚MARA注册移民代理 + 新西兰持牌顾问双重资质",
             ],
             en: [
               "Approved by China's Ministry of Commerce for overseas labor cooperation, fully legal and compliant",
-              "18 years of Japan labor dispatch experience with a 100% visa approval rate",
+              "18 years of Japan labor dispatch experience with a 98% visa approval rate",
               "Full-process management through five Japan resident offices: Kyushu, Chugoku-Shikoku, Kansai, Hokuriku, and Kanto",
               "Dual credentials: Australia MARA registered migration agent and New Zealand licensed adviser",
             ],
@@ -463,12 +463,12 @@
           texts: {
             zh: [
               "公司创建于2006年，总部位于四川省成都市金牛区，是中国希望集团的子公司。主要从事境内境外劳务派遣、培训及经济信息咨询、再就业服务等业务，派遣目的地覆盖日本、澳大利亚、新西兰、新加坡、阿拉伯等多个国家和地区。",
-              '公司秉承"开发和培养有国际视野的人才，客户的满意是我们的不懈追求"的经营方针和"专业、高效、严谨、诚信、关爱"的服务原则，与海内外各类企业建立了良好的合作关系。自成立以来已成功派送数千名人员出国就业，赴日签证取得率100%。',
+              '公司秉承"开发和培养有国际视野的人才，客户的满意是我们的不懈追求"的经营方针和"专业、高效、严谨、诚信、关爱"的服务原则，与海内外各类企业建立了良好的合作关系。自成立以来已成功派送数千名人员出国就业，赴日签证取得率98%。',
               "母公司中国希望集团是中国大陆大型综合性企业集团，在中国大陆、越南、菲律宾、孟加拉国、印度尼西亚、柬埔寨、新加坡等国均设有工厂，集团子公司超过2000家，员工总数逾12万人。",
             ],
             en: [
               "Founded in 2006 and headquartered in Jinniu District, Chengdu, Sichuan, the company is a subsidiary of China Hope Group. Its main businesses include domestic and overseas labor dispatch, training, economic information consulting, and re-employment services, with destinations covering Japan, Australia, New Zealand, Singapore, Arab countries, and more.",
-              'The company follows the business philosophy of "developing and cultivating talent with an international outlook, and pursuing customer satisfaction without compromise," together with service principles of professionalism, efficiency, rigor, integrity, and care. Since its establishment, it has successfully sent thousands of people overseas for employment, with a 100% visa approval rate for Japan.',
+              'The company follows the business philosophy of "developing and cultivating talent with an international outlook, and pursuing customer satisfaction without compromise," together with service principles of professionalism, efficiency, rigor, integrity, and care. Since its establishment, it has successfully sent thousands of people overseas for employment, with a 98% visa approval rate for Japan.',
               "Its parent company, China Hope Group, is a major diversified enterprise group in mainland China, with factories in mainland China, Vietnam, the Philippines, Bangladesh, Indonesia, Cambodia, Singapore, and beyond. The group has more than 2,000 subsidiaries and over 120,000 employees.",
             ],
           },
@@ -597,8 +597,8 @@
         {
           selector: ".sub-hero p",
           text: {
-            zh: "18年日本劳务派遣经验，签证通过率100%",
-            en: "18 years of Japan labor dispatch experience with a 100% visa approval rate",
+            zh: "18年日本劳务派遣经验，签证通过率98%",
+            en: "18 years of Japan labor dispatch experience with a 98% visa approval rate",
           },
         },
         {
